@@ -15969,4 +15969,3 @@ talk	NN
 to	NN
 u	NN
 !!!!!	NNP
-	NNP
